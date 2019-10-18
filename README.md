@@ -9,7 +9,7 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 17 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Dedium |
+
 | 1 | Two Sum     | Easy |
 | 2 | Add Two Numbers     | Medium |
 | 3 | Longest Substring Without Repeating Characters     | Medium |
@@ -21,7 +21,7 @@ www.linkedin.com/in/tomli001
 | 13 | Roman to Integer     | Easy |
 | 14 | Longest Common Prefix     | Easy |
 | 15 | 3Sum     | Medium |
-| 17 | Letter Combinations of a Phone Number     | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Dedium |
 | 20 | Valid Parentheses     | Easy |
 | 21 | Merge Two Sorted Lists     | Easy |
 | 22 | Generate Parentheses     | Medium |
