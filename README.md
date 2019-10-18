@@ -10,7 +10,6 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 001 | [Two Sum]() | Easy |
 | 002 | [Add Two Numbers]() | Medium |
 | 003 | [Longest Substring Without Repeating Characters]() | Medium |
 | 004 | [Median of Two Sorted Arrays]() | Hard |
@@ -32,7 +31,6 @@ www.linkedin.com/in/tomli001
 | 029 | [Divide Two Integers]() | Medium |
 | 031 | [Next Permutation]() | Medium |
 | 033 | [Search in Rotated Sorted Array]() | Medium |
-| 035 | [Search Insert Position]() | Easy |
 | 038 | [Count and Say]() | Easy |
 | 039 | [Combination Sum]() | Medium |
 | 040 | [Combination Sum II]() | Medium |
