@@ -5,7 +5,7 @@ my Leetcode solution
 This is my own solution to Leetcode questions, I write my own thoughts, notes and code here for future review. I will update at lease one question per day. Feel free to fork or contact me if you find an issue or want give me suggestions, I will really appreciate it.
 
 tomliuncc@gmail.com
-<!--- sadfgsdfg--->
+
 www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
@@ -35,7 +35,8 @@ www.linkedin.com/in/tomli001
 | 039 | [Combination Sum](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/039.Combination%20Sum.md.txt) | Medium |
 | 040 | [Combination Sum II](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/040.Combination%20Sum%20II.md.txt) | Medium |
 | 041 | [First Missing Positive](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/041.First%20Missing%20Positive.md.txt) | Hard |
-| 043 | [Multiply Strings]() | Medium |
+
+<!---| 043 | [Multiply Strings]() | Medium |--->
 | 046 | [Permutations]() | Medium |
 | 047 | [Permutations II]() | Medium |
 | 049 | [Group Anagrams]() | Medium |
