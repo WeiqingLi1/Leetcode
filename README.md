@@ -10,7 +10,7 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 002 | [Add Two Numbers](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/002.Add%20Two%20Numbers.md%C2%A0%C2%A0) | Medium |
+| 002 | [Add Two Numbers](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/002.Add%20Two%20Numbers.md) | Medium |
 | 003 | [Longest Substring Without Repeating Characters](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/003.Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium |
 | 004 | [Median of Two Sorted Arrays](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/004.Median%20of%20Two%20Sorted%20Arrays.md) | Hard |
 | 005 | [Longest Palindromic Substring](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/005.Longest%20Palindromic%20Substring.md) | Medium |
