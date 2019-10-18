@@ -1,0 +1,27 @@
+class Solution {
+    List<List<Integer>> combineSolution = new ArrayList<List<Integer>>();
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<Integer> solu = new ArrayList<Integer>();
+        findCombination(candidates, 0, target, solu);
+        return combineSolution;
+    }
+    public void findCombination(int[] candi, int layer, int left, List<Integer> solution){
+        if(layer == candi.length){
+            if(left == 0){
+                combineSolution.add(new ArrayList<Integer>(solution));
+            }
+            return;
+
+        } else {
+            for(int i = 0; i <= left / candi[layer]; i++){
+                for(int a = i; a >0; a--)
+                    solution.add(candi[layer]);
+                findCombination(candi, layer + 1, left - i * candi[layer], solution);
+                for(int a = i; a >0; a--)
+                    solution.remove(solution.size() - 1);
+            }
+            
+        }
+
+    }
+}

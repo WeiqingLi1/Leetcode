@@ -1,0 +1,43 @@
+// class Solution {
+//     public int firstMissingPositive(int[] nums) {
+//         int maxPositive = 0;
+//         for(int i = 0; i < nums.length; i++) {
+//             if(nums[i] > maxPositive) {
+//                 maxPositive = nums[i];
+//             }
+//         }
+//         boolean[] compareArray = new boolean[maxPositive + 1];
+//         for(int i = 0; i < nums.length; i++) {
+//             if(nums[i] > 0) {
+//                 compareArray[nums[i]] = true;
+//             }
+//         }
+//         for(int i = 1; i < compareArray.length; i++) {
+//             if(compareArray[i] != true) {
+//                 return i;
+//             }
+//         }
+//         return maxPositive + 1;
+//     }
+// }
+
+
+class Solution {
+    public int firstMissingPositive(int[] nums) {
+        for(int i = 0; i < nums.length; i++) {
+            //be really careful here
+            while(nums[i] > 0 && nums[i] <= nums.length && nums[nums[i] -1] != nums[i]) {
+                int temp = nums[i];
+                nums[i] = nums[nums[i] - 1];
+                nums[temp - 1] = temp;
+            }
+        }
+        
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] != i + 1) {
+                return i + 1;
+            }
+        }
+        return nums.length + 1;
+    }
+}

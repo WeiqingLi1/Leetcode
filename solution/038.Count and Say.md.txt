@@ -1,0 +1,31 @@
+class Solution {
+    public String countAndSay(int n) {
+        //assume n >= 1
+        String initial = "1";
+        StringBuilder solu = new StringBuilder(initial);
+        while(n > 1) {
+            char value = solu.charAt(0);
+            int count = 1;
+            StringBuilder temp = new StringBuilder();
+            
+            for(int i = 0; i < solu.length(); i++) {
+                if(i + 1 >= solu.length()) {
+                    temp.append(count);
+                    temp.append(value);
+                } else if(solu.charAt(i + 1) != value) {
+                    temp.append(count);
+                    temp.append(value);
+                    value = solu.charAt(i + 1);
+                    count = 1;
+                } else {
+                    count++;
+                }
+            }
+            
+            solu = temp;
+            n--;
+        }
+        return solu.toString();
+    }
+    
+}

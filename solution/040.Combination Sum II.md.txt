@@ -1,0 +1,39 @@
+class Solution {
+    List<List<Integer>> combineSolution = new ArrayList<List<Integer>>();
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        sort(candidates);
+        List<Integer> solu = new ArrayList<Integer>();
+        findCombination(candidates, 0, target, solu);
+        return combineSolution;
+    }
+    public void findCombination(int[] candi, int index, int tar, List<Integer> solution){
+        if(tar < 0)
+            return;
+        if(tar == 0){
+            combineSolution.add(new ArrayList<Integer>(solution));
+            return;
+        }
+        for(int i = index; i < candi.length; i++){
+            if(i > index && candi[i] == candi[i - 1])
+                continue;
+            solution.add(candi[i]);
+            findCombination(candi, i + 1, tar - candi[i], solution);
+            solution.remove(solution.size() - 1);
+        }
+    }
+    public void sort(int[] arr){
+        for(int i = 0; i < arr.length - 1; i++){
+            for(int j = i + 1; j < arr.length; j++){
+                if(arr[j] == arr[i]){
+                    swap(arr, i + 1, j);
+                    i++;
+                }
+            }
+        }
+    }
+    public void swap(int[] array, int i, int j){
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+}
