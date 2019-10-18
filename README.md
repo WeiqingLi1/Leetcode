@@ -31,10 +31,10 @@ www.linkedin.com/in/tomli001
 | 029 | [Divide Two Integers](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/029.Divide%20Two%20Integers.md) | Medium |
 | 031 | [Next Permutation](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/031.Next%20Permutation.md) | Medium |
 | 033 | [Search in Rotated Sorted Array](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/033.Search%20in%20Rotated%20Sorted%20Array.md) | Medium |
-| 038 | [Count and Say](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/038.Count%20and%20Say.md.txt) | Easy |
-| 039 | [Combination Sum](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/039.Combination%20Sum.md.txt) | Medium |
-| 040 | [Combination Sum II](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/040.Combination%20Sum%20II.md.txt) | Medium |
-| 041 | [First Missing Positive](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/041.First%20Missing%20Positive.md.txt) | Hard |
+| 038 | [Count and Say](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/038.Count%20and%20Say.md) | Easy |
+| 039 | [Combination Sum](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/039.Combination%20Sum.md) | Medium |
+| 040 | [Combination Sum II](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/040.Combination%20Sum%20II.md) | Medium |
+| 041 | [First Missing Positive](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/041.First%20Missing%20Positive.md) | Hard |
 
 <!---| 043 | [Multiply Strings]() | Medium |
 | 046 | [Permutations]() | Medium |
