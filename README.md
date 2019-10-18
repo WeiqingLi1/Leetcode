@@ -10,31 +10,31 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 002 | [Add Two Numbers]() | Medium |
-| 003 | [Longest Substring Without Repeating Characters]() | Medium |
-| 004 | [Median of Two Sorted Arrays]() | Hard |
-| 005 | [Longest Palindromic Substring]() | Medium |
-| 007 | [Reverse Integer]() | Easy |
-| 009 | [Palindrome Number]() | Easy |
-| 011 | [Container With Most Water]() | Medium |
-| 013 | [Roman to Integer]() | Easy |
-| 014 | [Longest Common Prefix]() | Easy |
-| 015 | [3Sum]() | Medium |
+| 002 | [Add Two Numbers](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/002.Add%20Two%20Numbers.md%C2%A0%C2%A0) | Medium |
+| 003 | [Longest Substring Without Repeating Characters](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/003.Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium |
+| 004 | [Median of Two Sorted Arrays](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/004.Median%20of%20Two%20Sorted%20Arrays.md) | Hard |
+| 005 | [Longest Palindromic Substring](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/005.Longest%20Palindromic%20Substring.md) | Medium |
+| 007 | [Reverse Integer](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/007.Reverse%20Integer.md) | Easy |
+| 009 | [Palindrome Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/009.Palindrome%20Number.md) | Easy |
+| 011 | [Container With Most Water](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/011.Container%20With%20Most%20Water.md) | Medium |
+| 013 | [Roman to Integer](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/013.Roman%20to%20Integer.md) | Easy |
+| 014 | [Longest Common Prefix](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/014.Longest%20Common%20Prefix.md) | Easy |
+| 015 | [3Sum](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/015.3Sum.md) | Medium |
 | 017 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
-| 020 | [Valid Parentheses]() | Easy |
-| 021 | [Merge Two Sorted Lists]() | Easy |
-| 022 | [Generate Parentheses]() | Medium |
-| 023 | [Merge k Sorted Lists]() | Hard |
-| 026 | [Remove Duplicates from Sorted Array]() | Easy |
-| 027 | [Remove Element]() | Easy |
-| 028 | [Implement strStr()]() | Easy |
-| 029 | [Divide Two Integers]() | Medium |
-| 031 | [Next Permutation]() | Medium |
-| 033 | [Search in Rotated Sorted Array]() | Medium |
-| 038 | [Count and Say]() | Easy |
-| 039 | [Combination Sum]() | Medium |
-| 040 | [Combination Sum II]() | Medium |
-| 041 | [First Missing Positive]() | Hard |
+| 020 | [Valid Parentheses](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/020.Valid%20Parentheses.md) | Easy |
+| 021 | [Merge Two Sorted Lists](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/021.Merge%20Two%20Sorted%20Lists.md) | Easy |
+| 022 | [Generate Parentheses](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/022.Generate%20Parentheses.md) | Medium |
+| 023 | [Merge k Sorted Lists](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/023.Merge%20k%20Sorted%20Lists.md) | Hard |
+| 026 | [Remove Duplicates from Sorted Array](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/026.Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
+| 027 | [Remove Element](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/027.Remove%20Element.md) | Easy |
+| 028 | [Implement strStr()](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/028.Implement%20strStr().md) | Easy |
+| 029 | [Divide Two Integers](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/029.Divide%20Two%20Integers.md) | Medium |
+| 031 | [Next Permutation](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/031.Next%20Permutation.md) | Medium |
+| 033 | [Search in Rotated Sorted Array](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/033.Search%20in%20Rotated%20Sorted%20Array.md) | Medium |
+| 038 | [Count and Say](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/038.Count%20and%20Say.md.txt) | Easy |
+| 039 | [Combination Sum](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/039.Combination%20Sum.md.txt) | Medium |
+| 040 | [Combination Sum II](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/040.Combination%20Sum%20II.md.txt) | Medium |
+| 041 | [First Missing Positive](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/041.First%20Missing%20Positive.md.txt) | Hard |
 | 043 | [Multiply Strings]() | Medium |
 | 046 | [Permutations]() | Medium |
 | 047 | [Permutations II]() | Medium |
