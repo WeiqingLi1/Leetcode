@@ -10,7 +10,6 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
-| 017 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 | 001 | [Two Sum]() | Easy |
 | 002 | [Add Two Numbers]() | Medium |
 | 003 | [Longest Substring Without Repeating Characters]() | Medium |
@@ -22,7 +21,7 @@ www.linkedin.com/in/tomli001
 | 013 | [Roman to Integer]() | Easy |
 | 014 | [Longest Common Prefix]() | Easy |
 | 015 | [3Sum]() | Medium |
-| 017 | [Letter Combinations of a Phone Number]() | Medium |
+| 017 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 | 020 | [Valid Parentheses]() | Easy |
 | 021 | [Merge Two Sorted Lists]() | Easy |
 | 022 | [Generate Parentheses]() | Medium |
