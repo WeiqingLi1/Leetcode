@@ -36,7 +36,7 @@ www.linkedin.com/in/tomli001
 | 040 | [Combination Sum II](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/040.Combination%20Sum%20II.md.txt) | Medium |
 | 041 | [First Missing Positive](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/041.First%20Missing%20Positive.md.txt) | Hard |
 
-<!---| 043 | [Multiply Strings]() | Medium |--->
+<!---| 043 | [Multiply Strings]() | Medium |
 | 046 | [Permutations]() | Medium |
 | 047 | [Permutations II]() | Medium |
 | 049 | [Group Anagrams]() | Medium |
@@ -114,7 +114,7 @@ www.linkedin.com/in/tomli001
 | 633 | [Sum of Square Numbers]() | Easy |
 | 645 | [Set Mismatch]() | Easy |
 | 657 | [Robot Return to Origin]() | Easy |
-| 665 | [Non-decreasing Array]() | Easy |
+| 665 | [Non-decreasing Array]() | Easy |--->
 
 
 
