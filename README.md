@@ -9,4 +9,4 @@ www.linkedin.com/in/tomli001
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 17 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/issues/1) | Solution | Dedium |
+| 17 | [Letter Combinations of a Phone Number](https://github.com/WeiqingLi1/Leetcode/blob/master/solution/17.%20Letter%20Combinations%20of%20a%20Phone%20Number) | Solution | Dedium |
