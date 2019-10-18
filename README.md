@@ -21,7 +21,7 @@ www.linkedin.com/in/tomli001
 | 013 | Roman to Integer | Easy |
 | 014 | Longest Common Prefix | Easy |
 | 015 | 3Sum | Medium |
-| 017 | [Letter Combinations of a Phone] Number(https://github.com/WeiqingLi1/Leetcode/blob/master/solution/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
+| 017 | [Letter Combinations of a Phone] Number(https://github.com/WeiqingLi1/Leetcode/blob/master/solution/017.Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 | 020 | Valid Parentheses | Easy |
 | 021 | Merge Two Sorted Lists | Easy |
 | 022 | Generate Parentheses | Medium |
