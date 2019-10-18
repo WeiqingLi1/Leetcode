@@ -1,3 +1,4 @@
 # Leetcode
 my Leetcode solution
-17. Letter Combinations of a Phone Number
+| # | Title | Solution | Difficulty |
+| 17 |  Letter Combinations of a Phone Number | Solution | Dedium |
